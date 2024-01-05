@@ -1,6 +1,6 @@
-import streamlit as st   #This is to deploy the app
-import plotly.express as px   #This is to chart the file
-import pandas as pd     #Read the CSV File
+import streamlit as st   ##This is to deploy the app
+import plotly.express as px   ##This is to chart the file
+import pandas as pd     ##Read the CSV File
 
 
 st.set_page_config(
